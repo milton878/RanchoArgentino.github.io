@@ -255,12 +255,12 @@ header .menu a:hover {
     
     header{
     width: 100%;
-    background: url('../img/fuegoN.jpg') ;
+    background: url('../img/fire-2915539_1920.jpg') ;
     background-size: cover;
     background-attachment: fixed;
     background-position: center 0;
     height: 850px;
-    object-fit: contain;
+    
 }
    
    
